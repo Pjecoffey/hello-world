@@ -1,2 +1,3 @@
 # hello-world
 Intro to goodness
+So I was just doing this to do what it's telling me to do...
